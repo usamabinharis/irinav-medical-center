@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../tamglobe"
+		},
+		{
+			"path": "../../../../Downloads/medicalcenter-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tamglobe"
+	}
+}

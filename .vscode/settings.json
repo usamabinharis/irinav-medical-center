@@ -1,0 +1,4 @@
+{
+    "less.completion.completePropertyWithSemicolon": false,
+    "less.format.newlineBetweenRules": true
+}
